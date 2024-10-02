@@ -1,0 +1,4 @@
+# ignore catboost info files
+catboost_info/
+# ignore virtual environment
+virtualenvname/
